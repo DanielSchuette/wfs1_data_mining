@@ -10,6 +10,10 @@ This repository has some resources for mining databases.
 
 2. [Data import tutorial](https://www.datacamp.com/community/tutorials/pandas-read-csv)
 
+3. [Regression analysis](https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
+
+4. [Docking](https://life.bsc.es/pid/pydock/)
+
 
 ## License
 
