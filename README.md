@@ -8,7 +8,7 @@ This repository has some resources for mining databases.
 
 1. [CCLE data portal](https://portals.broadinstitute.org/ccle)
 
-2. 
+2. [Data import tutorial](https://www.datacamp.com/community/tutorials/pandas-read-csv)
 
 
 ## License
