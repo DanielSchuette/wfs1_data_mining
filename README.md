@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository has some resources for mining databases.
+This repository has some resources for mining databases. Its purpose is to look at the relationship between NCS1 and WFS1 expression levels in different cancer cell lines.
 
 ## Resources
 
