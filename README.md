@@ -6,7 +6,9 @@ This repository has some resources for mining databases.
 
 ## Resources
 
+1. [CCLE data portal](https://portals.broadinstitute.org/ccle)
 
+2. 
 
 
 ## License
